@@ -1,4 +1,4 @@
 # hello-world
 getting used to github
 
-![](https://media.giphy.com/media/cfuL5gqFDreXxkWQ4o/giphy.gif | width=100)
+<iframe src="https://giphy.com/embed/cfuL5gqFDreXxkWQ4o" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-cool-cats-cfuL5gqFDreXxkWQ4o">via GIPHY</a></p>
