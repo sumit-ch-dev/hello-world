@@ -1,4 +1,8 @@
-# hello-world
-getting used to github
 
-<iframe src="https://giphy.com/embed/cfuL5gqFDreXxkWQ4o" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-cool-cats-cfuL5gqFDreXxkWQ4o">via GIPHY</a></p>
+# Project Title
+
+A brief description of what this project does and who it's for
+
+**this is the project planning**
+
+![](https://media.giphy.com/media/cfuL5gqFDreXxkWQ4o/giphy-downsized.gif)
